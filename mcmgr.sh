@@ -14,7 +14,7 @@ echo "2.Go back to the console"
 echo "3.Force stop this server"
 echo "4.Read config"
 while :; do echo
-	read -p "请选择： " choice
+	read -p "Please Select： " choice
 	if [[ ! $choice =~ ^[1-4]$ ]]; then
 		echo "Error select!"
 	else
