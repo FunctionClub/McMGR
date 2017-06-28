@@ -1,0 +1,4 @@
+javapre="-Xincgc"
+ramlimit="1024M"
+rammax="2048M"
+mcdir="KCauldron-1.7.10-1517.168-server.jar"
